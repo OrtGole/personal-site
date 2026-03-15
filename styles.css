@@ -1,3 +1,7 @@
+
 body {
-  cursor: url('your-image-path.png'), auto;
+  cursor: url('path-to-your-cursor.png'), crosshair;
+}
+a:hover, button:hover {
+  cursor: url('path-to-hover-cursor.png'), crosshair;
 }
