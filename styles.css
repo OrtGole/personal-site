@@ -1,9 +1,9 @@
 
 body {
-  cursor: url('false.png'), crosshair;
+  cursor: url('false.png'), ('Screenshot 2026-03-14 193215.png'), crosshair;
 }
 a:hover, button:hover {
-  cursor: url('true.png'), ('Screenshot 2026-03-14 193149.png');
+  cursor: url('true.png'), ('Screenshot 2026-03-14 193149.png'), crosshair;
 }
 a:link, a:visited {
   background-color: #f44336;
